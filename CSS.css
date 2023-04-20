@@ -1,0 +1,292 @@
+/* ============================================================= */
+@media (min-width: 768px) {
+  .nav {
+    text-decoration: none;
+    color: #E2E8F1;
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
+  }
+}
+
+@media (max-width: 767px) {
+  .nav {
+    text-decoration: none;
+    color: #E2E8F1;
+    display: flex;
+    justify-content: center;
+    padding: 3px;
+  }
+}
+/* ============================================================= */
+@media (min-width: 768px) {
+  .res2 {
+    display: flex;
+    justify-content: space-evenly;
+  }
+}
+
+header {
+  background-color: #223972;
+}
+
+#primeraSeccion {
+  background-color: #4672CF;
+  background-image: url(https://img.freepik.com/foto-gratis/fondo-abstracto-diseno-poli_1048-8478.jpg?w=996&t=st=1681770266~exp=1681770866~hmac=d6bf72363e884c41a7a06ff4b9e3ac88433e70276c5f1123578b9e682d2f7b6e);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+  color: #E2E8F1
+}
+
+#segundaSeccion {
+  background-color: #615D93;
+  color: #E2E8F1;
+  font-family: sans-serif;
+}
+/* ============================================================= */
+@media (min-width: 768px) {
+  .carr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-color: #615D93;
+    height: 350px;
+    width: auto;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 767px) {
+  .carr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-color: #615D93;
+    height: 550px;
+    width: auto;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-bottom: 20px;
+    text-align: center;
+  }
+}
+/* ============================================================= */
+@media (min-width: 768px) {
+  .tituloPrincipal {
+    font-size: 90px;
+  }
+}
+
+@media (max-width: 767px) {
+  .tituloPrincipal {
+    font-size: 45px;
+  }
+}
+/* ============================================================= */
+@media (max-width: 767px) {
+  .suptituloPrincipal {
+    font-size: 22px;
+  }
+}
+
+@media (min-width: 768px) {
+  .suptituloPrincipal {
+    font-size: 35px;
+  }
+}
+/* ============================================================= */
+@media (min-width: 768px) {
+  .about {
+    font-size: 20px;
+  }
+}
+
+.boton {
+  border: none;
+  background-color: #615D93;
+  color: #E2E8F1;
+  border-radius: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+#terceraSeccion{
+  background-color: #223972;
+  text-align: center;
+  color: #E2E8F1;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: sans-serif;
+}
+
+/* .gris {
+  background-color: #8AB2D3;
+} */
+
+
+#cuartaSeccion {
+  color: #22193f;
+  padding-top: 30px;
+  background-color: #E2E8F1;
+  padding-bottom: 20px;
+  font-family: sans-serif;
+}
+
+
+.btnForm{
+  align-items: end;
+  justify-content: end;
+}
+
+@media (max-width: 767px) {
+  .not{
+    display: none !important;
+
+  }
+}
+/* ============================================================= */
+/* @media (max-width: 767px) {
+  .formulario{
+    height: 600px;
+  }
+} */
+
+/* @media (min-width: 768px) {
+  .formulario{
+    height: 300px;
+  }
+} */
+/* ============================================================= */
+@media (max-width: 767px) {
+  .nextBtn{
+    width: 30% !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .nextBtn{
+    width: 20% !important;
+  }
+}
+/* ============================================================= */
+/* .faqs {
+  display: flex;
+  margin: 15px;
+  width: 95%;
+  border-radius: 5px;
+  box-shadow: 0px 0.5px 2px rgba(0, 0, 0, 0.3);
+  border: 1px;
+  padding-left: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-right: 5%;
+  justify-content: space-between;
+} */
+
+#quintaSeccion{
+  background-color: #203E7D;
+  font-family: sans-serif;
+
+}
+.gris {
+}
+
+.faqs{
+  background-color: #3b5fad !important;
+  color: antiquewhite !important;
+}
+
+#sextaSeccion {
+  padding-top: 70px;
+  padding-bottom: 70px;
+
+  background-color: #615D93;
+  color: #E2E8F1;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  /* background-color: #4672CF; */
+}
+
+
+footer {
+  background-color: #223972;
+}
+
+.sinestilo {
+  text-decoration: none;
+  color: white;
+}
+
+.rosa {
+  color: #203E7D;
+}
+
+.nublack {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 900;
+}
+
+.nubold {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 700;
+}
+
+.nuel {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 200;
+}
+
+.osr {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+.osb {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+}
+
+@media (max-width: 767px) {
+  #media1 {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media (min-width: 768px) {
+  #media1 {
+    display: flex;
+    justify-content: left;
+  }
+}
+
+@media (max-width: 767px) {
+  #media2 {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+@media (min-width: 768px) {
+  #media2 {
+    display: flex;
+    justify-content: center;
+  }
+}
+
+
+
+@media (max-width: 767px) {
+  #tyc {
+    padding-bottom: 30px;
+  }
+}
+
+
